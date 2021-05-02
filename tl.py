@@ -30,4 +30,9 @@ if upload is not None:
     for i in range(3):
       out = label[0][i]
       st.sidebar.title('%s (%.2f%%)' % (out[1], out[2]*100))
+
+
+
+
  
+    
